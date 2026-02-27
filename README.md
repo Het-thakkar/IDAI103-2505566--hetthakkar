@@ -283,17 +283,6 @@ python-dotenv==1.0.1
    ```
    OPENAI_API_KEY = "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"
    ```
-6. Click **Deploy** and share your public URL
-
----
-
-## 🔐 Security Note
-
-- Never commit your API key to GitHub
-- Add `.env` to your `.gitignore`
-- Rotate your key immediately if accidentally shared publicly
-
----
 
 ## 👤 Student Details
 
@@ -303,7 +292,3 @@ python-dotenv==1.0.1
 | **CRS** | Artificial Intelligence |
 | **School** | [Udgam School For Children ] |
 ---
-
-## 📄 License
-
-MIT License — for academic use only.
