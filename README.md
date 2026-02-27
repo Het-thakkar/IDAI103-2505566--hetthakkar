@@ -260,7 +260,7 @@ client = OpenAI(api_key="sk-proj-N0jt-kddG99X1xwZjcVpH9u7Bd9QSd58RnxGpvsz8eqyc7a
 streamlit run app.py
 ```
 
-Open: http://localhost:8501
+Open: https://zewgqsjdggjqe5iytwcju6.streamlit.app/
 
 ---
 
